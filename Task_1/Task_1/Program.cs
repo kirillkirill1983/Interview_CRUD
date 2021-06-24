@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Threading;
 
 namespace Task_1
 {
@@ -13,19 +13,25 @@ namespace Task_1
             int PointY = Convert.ToInt32(Console.ReadLine());
             
             Point pointOne = new Point(PointX, PointY);
-            
-            while (true)
+            int count = 0;
+            int speed = 0;
+            Random random = new Random();
+           
+            while (count<5)
             {
-                Console.WriteLine($"Задайте скорость");
-                int speed = Convert.ToInt32(Console.ReadLine());
-                                            
+                //Console.WriteLine($"Задайте скорость");
+                //int speed = Convert.ToInt32(Console.ReadLine());
+                 speed = random.Next(1, 10);
+                Console.WriteLine($"Скорость {speed}");
                 Summa(ref pointOne, speed);
-                Console.WriteLine("Для выхода введите N, для продолжения Enter ");
-                string stop = Console.ReadLine();
-                if (stop=="N")
-                {
-                    break;
-                }
+                //Console.WriteLine("Для выхода введите N, для продолжения Enter ");
+                //string stop = Console.ReadLine();
+                //if (stop=="N")
+                //{
+                //    break;
+                //}
+                Thread.Sleep(1000);
+                count += 1;
             }
             Console.WriteLine("ВЫХОД");
             Console.ReadKey();
