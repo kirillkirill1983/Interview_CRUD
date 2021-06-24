@@ -101,5 +101,11 @@ namespace CRUD_tutorial
             Form2 newForm2 = new Form2();
             newForm2.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 newForm4 = new Form4();
+            newForm4.Show();
+        }
     }
 }

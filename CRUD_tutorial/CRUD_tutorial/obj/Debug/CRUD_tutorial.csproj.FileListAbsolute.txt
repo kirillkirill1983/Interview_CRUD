@@ -15,3 +15,4 @@ G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.pdb
 G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form2.resources
 G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form3.resources
 G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.csprojAssemblyReference.cache
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form4.resources
