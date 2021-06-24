@@ -1,0 +1,14 @@
+C:\Programs\Temp\Task_1\Task_1\bin\Debug\Task_1.exe.config
+C:\Programs\Temp\Task_1\Task_1\bin\Debug\Task_1.exe
+C:\Programs\Temp\Task_1\Task_1\bin\Debug\Task_1.pdb
+C:\Programs\Temp\Task_1\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Programs\Temp\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Programs\Temp\Task_1\Task_1\obj\Debug\Task_1.exe
+C:\Programs\Temp\Task_1\Task_1\obj\Debug\Task_1.pdb
+G:\Sobesedovanie\Task_1\Task_1\bin\Debug\Task_1.exe.config
+G:\Sobesedovanie\Task_1\Task_1\bin\Debug\Task_1.exe
+G:\Sobesedovanie\Task_1\Task_1\bin\Debug\Task_1.pdb
+G:\Sobesedovanie\Task_1\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+G:\Sobesedovanie\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+G:\Sobesedovanie\Task_1\Task_1\obj\Debug\Task_1.exe
+G:\Sobesedovanie\Task_1\Task_1\obj\Debug\Task_1.pdb

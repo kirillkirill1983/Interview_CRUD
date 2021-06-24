@@ -1,0 +1,17 @@
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\CRUD_tutorial.exe.config
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\CRUD_tutorial.exe
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\CRUD_tutorial.pdb
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\EntityFramework.dll
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\EntityFramework.SqlServer.dll
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\EntityFramework.xml
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\bin\Debug\EntityFramework.SqlServer.xml
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form1.resources
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Properties.Resources.resources
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.csproj.GenerateResource.cache
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.csproj.CoreCompileInputs.cache
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.csproj.CopyComplete
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.exe
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.pdb
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form2.resources
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.Form3.resources
+G:\Sobesedovanie\CRUD_tutorial\CRUD_tutorial\obj\Debug\CRUD_tutorial.csprojAssemblyReference.cache
