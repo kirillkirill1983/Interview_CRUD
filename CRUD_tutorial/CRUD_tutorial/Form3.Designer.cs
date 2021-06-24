@@ -147,7 +147,7 @@ namespace CRUD_tutorial
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form3";
-            this.Text = "da";
+            this.Text = "Форма Клиента";
             this.Load += new System.EventHandler(this.Form3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);

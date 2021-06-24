@@ -103,7 +103,7 @@ namespace CRUD_tutorial
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "Form4";
-            this.Text = "Form4";
+            this.Text = "Форма Поиск";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -47,6 +47,7 @@ namespace CRUD_tutorial
             Model1.Orders.Load();
             dataGridView1.DataSource = Model1.Orders.Local.ToBindingList();
             label6.Text = null;
+            
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
