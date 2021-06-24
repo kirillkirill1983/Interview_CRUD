@@ -18,6 +18,7 @@ namespace CRUD_tutorial
         public Form1()
         {
             InitializeComponent();
+            //при первом запуске раскоментировать для создания БД и потом сново закиментировать 
             //Database.SetInitializer(new DropModel());
           
         }
